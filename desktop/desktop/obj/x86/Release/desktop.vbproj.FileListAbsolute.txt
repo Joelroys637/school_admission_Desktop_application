@@ -1,0 +1,24 @@
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\bin\Release\desktop.exe
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\bin\Release\desktop.pdb
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\bin\Release\desktop.xml
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\obj\x86\Release\desktop.Form1.resources
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\obj\x86\Release\desktop.Resources.resources
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\obj\x86\Release\desktop.vbproj.GenerateResource.Cache
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\obj\x86\Release\desktop.exe
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\obj\x86\Release\desktop.xml
+C:\Users\LEO_JOEL_ROYS\AppData\Local\Temporary Projects\desktop\obj\x86\Release\desktop.pdb
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.exe
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.xml
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.pdb
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\bin\Release\desktop.exe
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\bin\Release\desktop.pdb
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\bin\Release\desktop.xml
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.Form1.resources
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.Resources.resources
+C:\Users\LEO_JOEL_ROYS\OneDrive\Documents\Visual Studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.vbproj.GenerateResource.Cache
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Release\System.Data.SQLite.dll
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Release\System.Data.SQLite.pdb
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Release\System.Data.SQLite.xml
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.vbprojResolveAssemblyReference.cache
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.home.resources
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Release\desktop.dataview.resources

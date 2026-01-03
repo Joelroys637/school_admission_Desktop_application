@@ -1,0 +1,15 @@
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Debug\desktop.exe
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Debug\desktop.pdb
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Debug\desktop.xml
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Debug\System.Data.SQLite.pdb
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.vbprojResolveAssemblyReference.cache
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.Form1.resources
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.Resources.resources
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.vbproj.GenerateResource.Cache
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.exe
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.xml
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.pdb
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.home.resources
+C:\Users\LEO_JOEL_ROYS\onedrive\documents\visual studio 2010\Projects\desktop\desktop\obj\x86\Debug\desktop.dataview.resources
